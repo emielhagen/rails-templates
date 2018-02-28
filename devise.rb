@@ -14,6 +14,7 @@ gem 'pg', '~> 0.21'
 gem 'puma'
 gem 'rails', '#{Rails.version}'
 gem 'redis'
+gem 'bootsnap'
 
 gem 'autoprefixer-rails'
 gem 'bootstrap-sass'
