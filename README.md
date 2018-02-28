@@ -24,6 +24,6 @@ Same as minimal **plus** a Devise install with a generated `User` model.
 rails new \
   --database postgresql \
   --webpack \
-  -m https://github.com/emielhagen/rails-templates/blob/master/devise.rb \
+  -m https://raw.githubusercontent.com/emielhagen/rails-templates/master/devise.rb \
   CHANGE_THIS_TO_YOUR_RAILS_APP_NAME
 ```
